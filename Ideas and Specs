@@ -1,0 +1,2 @@
+Must be able to meet the critera that it can generate viable passwords for real world use.
+Must be able to test if user inputed passwords are up to real world application, and will ideally have a library of passwords saved by the user.
